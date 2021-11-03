@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name": {
+        "first": "Bamboo",
+        "last": "Token"
+    },
+    "logo": true,
+    "titles": [
+        "Strong Team.",
+        "Stronger Community.",
+        "Token of The People."
+    ],
+    "headings": {
+      "about": "About",
+      "skills": "Partners",
+      "portfolio": "How To Buy $BMBO ",
+      "contact": "Tokenomics"
+    }
+  },
+    "about": {
+      "bio": "Bamboo Coin is a memecoin on the Solana network, with the aim to be community-owned and provide some fun to our lives. Bamboo Coin is inspired by the likes of Dogecoin and Shiba. It has all the upsides of Solana's blockchain (high scalability, high speed, low fees) while being a fun cryptocurrency to trade. Bamboo Coin aims to grow slow and steadily, much like the plant from which it gets its name.",
+      "tagline": "We grow when our community grows!",
+      "facts": [
+        {"name": "Hometown",
+        "value": "Calgary, Alberta"
+        },
+        {"name": "Built On",
+        "value": "Solana"
+        }
+      ]
+    },
+    "skills": {
+    "defaultCategory": "Dexlab",
+
+    "categories": [
+      {
+        "category": "Dexlab",
+        "subtitle": "My true passion!",
+        "faClass": "fas fa-paint-brush",
+        "skillList":[
+
+        ]
+      },
+
+      {
+        "category": "Raydium",
+        "subtitle": "",
+        "faClass": "fas fa-chalkboard-teacher",
+        "skillList":[
+        ]
+      }
+    ]
+  },
+"portfolio": {
+  "defaultFilter": "mountains",
+  "projects": [
+    {
+      "title": "Raydium",
+      "description": "Available Now!!",
+      "image": "peacefulvalley.png",
+      "link": "https://dex.raydium.io/#/market/8dpaLWWPv6vFong1D8gHFDmYzHQreXuKcui3XCKBACCj",
+      "source": "https://dex.raydium.io/#/market/8dpaLWWPv6vFong1D8gHFDmYzHQreXuKcui3XCKBACCj",
+      "filter": "mountains"
+        },
+    {
+      "title": "Dexlab",
+      "description": "Available Now!!",
+      "image": "meadowlake.png",
+      "link": "https://trade.dexlab.space/#/market/8dpaLWWPv6vFong1D8gHFDmYzHQreXuKcui3XCKBACCj",
+      "source": "https://trade.dexlab.space/#/market/8dpaLWWPv6vFong1D8gHFDmYzHQreXuKcui3XCKBACCj",
+      "filter": "mountains"
+    },
+    {
+      "title": "More Coming Soon",
+      "description": "",
+      "image": "comingsoon.png",
+      "link": "",
+      "source": "",
+      "filter": "mountains"
+    }
+
+  ]
+},
+    "contact":{
+      "text": "Lower developer fee proportion than most projects",
+      "formTitle": "20% of the supply went into liquidity",
+      "formEndPoint": "",
+      "city": "Calgary, Alberta",
+      "email": "",
+      "phone": "",
+      "resumeLink": "https://www.coingecko.com/en/coins/bamboo-coin",
+      "form": true,
+
+      "social": [
+          {
+            "name": "twitter",
+            "url": "https://twitter.com/BambooCoin",
+            "faClass": "fab fa-twitter"
+          }
+        ]
+      },
+  "footer": {
+    "copyrightText": "All Rights Reserved."
+  }
+
+}
