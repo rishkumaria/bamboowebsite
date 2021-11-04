@@ -20,8 +20,8 @@
       "bio": "Bamboo Coin is a memecoin on the Solana network, with the aim to be community-owned and provide some fun to our lives. Bamboo Coin is inspired by the likes of Dogecoin and Shiba. It has all the upsides of Solana's blockchain (high scalability, high speed, low fees) while being a fun cryptocurrency to trade. Bamboo Coin aims to grow slow and steadily, much like the plant from which it gets its name.",
       "tagline": "We grow when our community grows!",
       "facts": [
-        {"name": "Hometown",
-        "value": "Calgary, Alberta"
+        {"name": "Country",
+        "value": "Canada"
         },
         {"name": "Built On",
         "value": "Solana"
@@ -84,7 +84,7 @@
       "text": "Lower developer fee proportion than most projects",
       "formTitle": "20% of the supply went into liquidity",
       "formEndPoint": "",
-      "city": "Calgary, Alberta",
+      "city": "Canada",
       "email": "",
       "phone": "",
       "resumeLink": "https://www.coingecko.com/en/coins/bamboo-coin",
