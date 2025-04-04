@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve --host localhost --port 8080",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css"
+    "sass": "npm uninstall node-sass && npm install sass"
   },
   "dependencies": {
     "@babel/core": "^7.12.3",
